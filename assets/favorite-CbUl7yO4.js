@@ -1,0 +1,1 @@
+import{g as a,c as o,f as n}from"./index-DLL0yxcy.js";function g(){const{hero:t,heroContainer:s,cardsList:i,heroTitle:r}=a(n),e=o({tag:"div",classList:["favorite-page"]});return e.append(t),r.textContent="Закладки",e}export{g as getFavoritePage};

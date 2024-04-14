@@ -1,0 +1,1 @@
+import{g as i,c as o,a as n,i as d,s as c}from"./index-DLL0yxcy.js";function p(){const{hero:t,heroContainer:s,cardsList:l,heroTitle:a}=i(d),e=o({tag:"div",classList:["main-page"]});e.append(t),a.textContent="все Кроссовки";const r=n("hero__slider",c);return r.classList.add("hero__slider"),s.prepend(r),e}export{p as getMainPage};
